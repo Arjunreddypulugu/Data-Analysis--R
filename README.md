@@ -37,4 +37,4 @@ Hypothesis testing added a statistical dimension to the analysis, allowing us to
 
 The tools and libraries used in this analysis demonstrated the power of the R programming language for data exploration, visualization, and statistical analysis. The combination of Tidyverse, ggplot2, DescTools, and Psych provided a robust and efficient environment for conducting a comprehensive examination of global economic indicators.
 
-In conclusion, this report contributes to the understanding of global economic dynamics, laying the groundwork for informed decision-making and further research in the field of international economics.
+In conclusion, this project contributes to the understanding of global economic dynamics, laying the groundwork for informed decision-making and further research in the field of international economics.
