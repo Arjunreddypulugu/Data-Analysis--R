@@ -1,4 +1,4 @@
-# Report on Global Economy Indicators Analysis
+#Global Economy Indicators Analysis using R
 
 ## Introduction
 The analysis focuses on global economic indicators, exploring trends, patterns, and relationships among various countries. The dataset used for this analysis contains information on exchange rates, population, GNI, exports, imports, GDP, and other economic indicators for multiple countries over several years. The goal is to gain insights into the economic dynamics, comparing countries, and understanding how key indicators have evolved over time.
